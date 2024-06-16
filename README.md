@@ -1,6 +1,6 @@
 ## My RISCV Implementation
 
-- Currently it is WIP. A core implementation with RV32 is somewhat done.
+- Currently it is WIP. A core implementation with RV32I is somewhat done.
 - AXI Master and Slave logic is written
 - SRAM inference logic is added for RTL simulation
 
